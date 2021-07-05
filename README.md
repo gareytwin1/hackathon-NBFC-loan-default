@@ -1,5 +1,5 @@
 # hackathon-NBFC-loan-default
-Using XGBoost classifier in python to predict loan default
+Data Science Hackathon to predict loan default
 
 ## Description
 A non-banking financial institution (NBFI) or non-bank financial company (NBFC) is a Financial Institution that does not have a full banking license or is not supervised by a national or international banking regulatory agency. NBFC facilitates bank-related financial services, such as investment, risk pooling, contractual savings, and market brokering.
